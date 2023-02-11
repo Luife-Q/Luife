@@ -1,0 +1,19 @@
+body{
+    display: block;
+    margin: 0px;
+    box-sizing: border-box;
+}
+header{
+    background: black;
+    color: gold;
+}
+nav{
+    height: 80px;
+    background: brown;
+    padding: 5px;
+    margin: 10px;
+}
+#luife{
+    margin-top: 0px;
+    line-height: 70px;
+}
